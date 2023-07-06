@@ -1,4 +1,8 @@
 spring:
   profiles:
     include: secret
-    active: dev
+    active: prod
+custom:
+  base:
+    package: com.ll.mariadbReplication2
+    domainPackage: ${custom.base.package}.domain

@@ -1,4 +1,4 @@
-package com.ll.mariadbreplication2.domain.post;
+package com.ll.mariadbReplication2.domain.post;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
